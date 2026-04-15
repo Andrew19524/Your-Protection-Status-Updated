@@ -1,10 +1,10 @@
-Hi user,
+Hello user,
 
 This notice confirms that a Norton 360 subscription request was processed recently and billing authorization has been completed successfully. Activation will proceed automatically unless reviewed.
 
 Billing Information
 Product Name: Norton 360 Annual Protection
-Transaction Reference: GQM34-865466
+Transaction Reference: GQM34-912453
 Total Charged: $539.79 USD
 Renewal Date: 15 April 2026
 Helpline:- +1 {833} 436-8462
